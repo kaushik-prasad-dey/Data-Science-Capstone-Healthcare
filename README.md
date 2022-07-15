@@ -86,6 +86,3 @@ Heatmap of correlation analysis among the relevant variables
 
 Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different variables for these age brackets using a bubble chart.
 
- 
-
-Download the data sets from here.
